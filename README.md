@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=brudi4550&show_icons=true&theme=prussian)]
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=brudi4550&show_icons=true&theme=prussian)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brudi4550&layout=compact&theme=prussian)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brudi4550&layout=compact&theme=prussian)
 
 
 <!--
